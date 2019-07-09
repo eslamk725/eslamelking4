@@ -1,0 +1,6 @@
+owner=454369890070167572
+prefix=4
+game=Amsterdam For ever....4help:4play
+stayinchannel=true
+songinstatus=true
+token=NTk3OTUwMDIxNjM1MTQ1Nzc1.XSPimw.fgxmhDUcmOv0AOd3fSdguNkTYsw
